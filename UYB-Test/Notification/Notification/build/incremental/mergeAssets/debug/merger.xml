@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/coderwll/AndroidStudioProjects/Notification/Notification/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/coderwll/AndroidStudioProjects/Notification/Notification/src/debug/assets" />
+    </dataSet>
+
+</merger>
